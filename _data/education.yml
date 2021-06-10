@@ -1,18 +1,18 @@
 # Degree
-- degree: Diplomatura en Deep Learning
-  uni: ITBA
+- degree: ITBA
+  uni: Diplomatura en Deep Learning
   year: 2021
 
-- degree: Maestría en Filosofía Política (resta tesis)
-  uni: Universidad Nacional de Quilmes
+- degree: Universidad Nacional de Quilmes
+  uni: Maestría en Filosofía Política (resta tesis)
   year: 2021
 
-- degree: Magister en Economía
-  uni: Universidad de Buenos Aires
+- degree: Universidad de Buenos Aires
+  uni: Magister en Economía
   year: 2015
 
-- degree: Licenciado en Economía
-  uni: Universidad de Buenos Aires
+- degree: Universidad de Buenos Aires
+  uni: Licenciado en Economía
   year: 2011
 
 - degree: Técnico en Computación
