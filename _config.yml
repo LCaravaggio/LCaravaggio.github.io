@@ -17,13 +17,13 @@ resume_title:                   "Economista y Data Scientist"
 resume_contact_email:           "caravaggio@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-#resume_contact_telephone:       "555-7334"
+#resume_contact_telephone:       ""
 #resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Mi nombre es Leonardo Caravaggio, soy economista y data scientist del Ministerio de Economía de la Nación</p>"
+resume_header_intro: "<p>Mi nombre es Leonardo A. Caravaggio, soy economista y data scientist. Trabajo en el Ministerio de Economía de la Nación y como docente para la UBA y el ITBA.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
