@@ -2,22 +2,22 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Análisis Predictivo
-  role: ITBA
+- project: ITBA
+  role: 
   duration: 2020 &mdash; Presente
   # url: "#"
-  description: Profesor de la materia Análisis Predictivo
+  description: Profesor de la materia Análisis Predictivo de la Licenciatura en Analítica Social y Empresarial y de la materia Análisis económico de políticas públicas de la Maestría en Policy Analysis
 
 # Springfield Community Outreach Group
-- project: Microeconomía II
-  role: Universidad de Buenos Aires
+- project: Universidad de Buenos Aires
+  role: 
   duration: 2010 &mdash; Presente
   # url: "#"
   description: Profesor de Microeconomía II
 
 # Springfield Community Outreach Group
-- project: Docente Excel Avanzado
-  role: Ministerio de Economía
+- project: Departamento de Capacitación del Ministerio de Economía
+  role: 
   duration: 2016 &mdash; Presente
   # url: "#"
-  description: Profesor a cargo del curso "Fórmulas Avanzadas y Tablas Dinámicas en Excel e Introducción al VBA" y del curso "Excel con VBA"
+  description: Profesor a cargo de los cursos "Fórmulas Avanzadas y Tablas Dinámicas en Excel e Introducción al VBA" y "Excel con VBA"
