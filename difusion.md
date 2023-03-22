@@ -7,6 +7,9 @@ https://tn.com.ar/opinion/2023/03/12/la-economia-del-comportamiento-un-instrumen
 
 # Año 2022
 
+"Entrevista para En Red", Septiembre 2022, Radio Cultura: </br>
+https://www.fmradiocultura.com.ar/podcast/en-red-19-09-2022/
+
 “Felicidad, paciencia y confianza: la Argentina en los rankings mundiales”, Agosto 2022, Diario La Nación </br>
 https://www.lanacion.com.ar/economia/felicidad-paciencia-y-confianza-la-argentina-en-los-rankings-mundiales-nid21082022/
 
