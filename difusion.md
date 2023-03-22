@@ -22,7 +22,7 @@ https://tn.com.ar/opinion/2022/05/29/el-futuro-del-trabajo-ante-el-avance-de-la-
 “Inteligencia Artificial y emociones: los mecanismos por los que una computadora sabe si estás feliz”, Mayo 2022, TN  </br>
 https://tn.com.ar/opinion/2022/05/08/inteligencia-artificial-y-emociones-los-mecanismos-por-los-que-una-computadora-sabe-si-estas-feliz/
 
-"Entrevista para Mercado x Exepertos", Abril 2022, La City por dentro: </br>
+"Entrevista para Mercado x Exepertos", Abril 2022, Canal Metro: </br>
 https://www.youtube.com/watch?v=uQzMMlAMFSU
 
 “La felicidad, un valioso indicador”, Abril 2022, Infobae: </br>
