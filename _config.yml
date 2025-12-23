@@ -23,7 +23,7 @@ resume_contact_email:           "caravaggio@gmail.com"
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Mi nombre es Leonardo A. Caravaggio, soy economista, filósofo y data scientist. Doctorando en Economía en la <a href='https://www.uba.ar/'>Universidad de Buenos Aires</a> (UBA) y Licenciado y Magister en Economía por la UBA, así como magister en Filosofía por la UnQui. Trabajo en el <a href='https://www.argentina.gob.ar/economia'>Ministerio de Economía de la Nación</a> y como docente para la UBA y el <a href='https://www.itba.edu.ar/' target='_blank'>Instituto Tecnológico de Buenos Aires (ITBA)</a>.</p> <p>Me apasiona entender cómo funcionan las cosas y creo que los datos hoy nos abren una puerta inédita para explorar preguntas complejas y diseñar políticas públicas más efectivas.</p>"
+resume_header_intro: "<p>Mi nombre es Leonardo A. Caravaggio, soy economista, filósofo y data scientist. Doctorando en Economía en la <a href='https://www.uba.ar/'>Universidad de Buenos Aires (UBA)</a> y Licenciado y Magister en Economía por la misma casa de estudios, así como magister en Filosofía por la <a href='https://www.unq.edu.ar/'>Universidad de Quilmes (UnQui)</a>. Trabajo en el <a href='https://www.argentina.gob.ar/economia'>Ministerio de Economía de la Nación</a> y como docente para la UBA y el <a href='https://www.itba.edu.ar/' target='_blank'>Instituto Tecnológico de Buenos Aires (ITBA)</a>.</p>"
 
 
 # use "yes" to display the email contact button,
