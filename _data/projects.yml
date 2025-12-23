@@ -2,22 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: ITBA
+- project: 
   role: 
-  duration: 2020 &mdash; Presente
+  duration: 
   # url: "#"
-  description: Profesor de las materias Análisis Económico de Políticas Públicas, y Análisis Cuantitativo Avanzado de la Maestría en Policy Analysis. Profesor de Análisis Predictivo y de Procesamiento del Lenguaje Natural de la Licenciatura en Ciencia de Datos y la Ingeniería en Informática. Profesor de la Escuela de Innovación. 
-
-# Springfield Community Outreach Group
-- project: Universidad de Buenos Aires
-  role: 
-  duration: 2010 &mdash; Presente
-  # url: "#"
-  description: Docente Invitado en distintos cursos de grado y posgrado para temas vinculados a Economía de la Felicidad, Comportamiento y Políticas Públicas. 
-
-# Springfield Community Outreach Group
-- project: Departamento de Capacitación del Ministerio de Economía
-  role: 
-  duration: 2016 &mdash; Presente
-  # url: "#"
-  description: Profesor a cargo de los cursos "Extracción de datos con Python. APIs y Web Scraping", "Excel con VBA" y "Fórmulas Avanzadas y Tablas Dinámicas en Excel e Introducción al VBA".
+  description: Doy clases en distintas instituciones universitarias y organismos públicos, tanto de grado como de posgrado. Actualmente soy profesor en el ITBA, donde dicto materias vinculadas al análisis económico y el procesamiento de datos en la maestría en policy analysis, la licenciatura en ciencia de datos y en la ingeniería en computación. En la Universidad de Buenos Aires participo como docente invitado en cursos de grado y posgrado. Desde 2016 soy profesor en el Departamento de Capacitación del Ministerio de Economía, a cargo de diferentes cursos de análisis de datos y programación aplicada.
